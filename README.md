@@ -1,8 +1,8 @@
 # capgemini_proway
-## Desafio de Programação
+##Desafio de Programação
 
 
-###Como executar:
+##Como executar:
 
 - Clone o projeto para sua máquina.
 ``` 
