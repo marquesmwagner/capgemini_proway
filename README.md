@@ -8,12 +8,13 @@
 ``` 
 git clone https://github.com/marquesmwagner/capgemini_proway
 ```
-- Utilize sua IDE de preferência ou compile e execute pelo terminal.
+- Cada um dos arquivos do desafio e dos testes está nomeado com o nome da questão.
+- Utilize sua IDE de preferência(Eclipse, Netbeans, IntelliJ) ou compile e execute pelo terminal para rodar os desafios.
 ```
   $ javac QuestaoUm.java
-  $ java Questao
+  $ java QuestaoUm
 ```
-- Cada arquivo do programa e dos testes está nomeado com o nome da questão.
+
 
 ### 🛠 Tecnologias
 
